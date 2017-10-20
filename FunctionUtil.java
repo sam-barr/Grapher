@@ -35,6 +35,7 @@ public class FunctionUtil
 
     /**
      * Called by FunctionUtil.getFunction to parse the Function
+	 * I'll consider making this prettier once I learn regex
      * @param String eq
      * @return Function
      * @throws IllegalArgumentException if eq cannot be made into an Function
